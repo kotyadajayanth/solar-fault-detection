@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Model files (too large)
+*.h5
+*.keras
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Dataset (too large for GitHub)
+dataset/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
